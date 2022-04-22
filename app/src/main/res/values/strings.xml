@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">UTS</string>
+
+    <string-array name="programming_languages">
+        <item>Hermes Hotel</item>
+        <item>The Pade</item>
+        <item>Grand Arabia</item>
+        <item>Kyriad Muraya</item>
+        <item>iRis Hotel</item>
+        <item>Harry Hotel</item>
+        <item>Hogwarts</item>
+        <item>Durian Runtuh</item>
+        <item>Tembona</item>
+        <item>Andeska</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>IDR 1.200.000 / night</item>
+        <item>IDR 1.000.000 / night</item>
+        <item>IDR 1.000.999 / night</item>
+        <item>IDR 800.000 / night</item>
+        <item>IDR 780.000 / night</item>
+        <item>IDR 750.000 / night</item>
+        <item>IDR 640.000 / night</item>
+        <item>IDR 600.000 / night</item>
+        <item>IDR 575.000 / night</item>
+        <item>IDR 500.000 / night</item>
+
+    </string-array>
+</resources>
